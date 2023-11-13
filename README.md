@@ -6,4 +6,4 @@ In this assignment, I used:
 - Frontend: HTML, CSS, ReactJS
 
 ## My online deployment
-- Render: https://minhquan069-gsneaker.vercel.app/
+- Vercel: https://minhquan069-gsneaker.vercel.app/
